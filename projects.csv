@@ -1,0 +1,31 @@
+modules,days,price
+Database,10,1200
+Web,15,900
+ML,20,2000
+"Database,ML",12,1800
+"Web,App",18,1500
+Cybersecurity,7,1100
+Basic AI,10,1300
+"Web,App,ML",25,2500
+"Database,Web",8,1400
+App,14,1000
+"Database,ML,Cybersecurity",30,3000
+"Web,App,Basic AI",20,2100
+Other,10,800
+"Database,ML,Web",15,2200
+"Cybersecurity,App",12,1200
+"Database,App",9,1250
+"Web,ML",16,1700
+"Database,Basic AI",11,1450
+"App,Other",13,950
+"ML,Cybersecurity",22,2100
+"Web,App,Database",17,1600
+"Basic AI,ML",19,1950
+"Cybersecurity,Web",10,1150
+"Database,ML,App",28,2700
+"Web,Other",12,850
+"App,Basic AI",15,1200
+"Database,ML,Web,App",32,3200
+"Cybersecurity,ML",14,1600
+"Web,App,Other",18,1400
+"Database,ML,Basic",16,1500
